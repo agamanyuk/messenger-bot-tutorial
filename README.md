@@ -320,6 +320,10 @@ Go [here](https://developers.facebook.com/docs/messenger-platform/plugin-referen
 
 You can use https://m.me/<PAGE_USERNAME> to have someone start a chat.
 
+### *Submit to ChatBottle Search Engine*
+
+Make sure your chatbot is indexed by https://chatbottle.co/ and featured as Bot of the Week.
+
 ## 💡 What's next?
 
 You can learn how to get your bot approved for public use [here](https://developers.facebook.com/docs/messenger-platform/app-review).
